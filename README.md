@@ -7,4 +7,6 @@ Movement: W,A,S,D
 
 Shooting: Left Mouse Button
 
+FullScreen: TAB
+
 Exit The Game: Escape
